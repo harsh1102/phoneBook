@@ -1,4 +1,4 @@
-# CSE-5382-001 Input Validation Assignment Introduction
+# Input Validation Assignment Introduction
 
 I have implemented a robust REST API application designed to manage a phone book, maintaining a comprehensive database of names and corresponding phone numbers.
 
